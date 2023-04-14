@@ -375,10 +375,15 @@ h1 {
 }
 
 .list {
+    .list {
     height: 60%;
     font-size: larger;
     text-align: center;
     line-height: 4vh;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
 }
 
 .con {
